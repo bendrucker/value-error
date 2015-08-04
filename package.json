@@ -1,0 +1,33 @@
+{
+  "name": "value-error",
+  "main": "index.js",
+  "version": "0.0.0",
+  "description": "Extract the data from an Error to a plain object",
+  "license": "MIT",
+  "repository": "bendrucker/value-error",
+  "author": {
+    "email": "bvdrucker@gmail.com",
+    "name": "Ben Drucker",
+    "url": "bendrucker.me"
+  },
+  "scripts": {
+    "test": "standard && tape test.js"
+  },
+  "keywords": [
+    "error",
+    "object",
+    "properties",
+    "serialize",
+    "value"
+  ],
+  "devDependencies": {
+    "standard": "^4.0.0",
+    "tape": "^4.0.0"
+  },
+  "files": [
+    "index.js"
+  ],
+  "dependencies": {
+    "xtend": "~4.0.0"
+  }
+}
