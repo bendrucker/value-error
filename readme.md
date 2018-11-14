@@ -1,4 +1,4 @@
-# value-error [![Build Status](https://travis-ci.org/bendrucker/value-error.svg?branch=master)](https://travis-ci.org/bendrucker/value-error)
+# value-error [![Build Status](https://travis-ci.org/bendrucker/value-error.svg?branch=master)](https://travis-ci.org/bendrucker/value-error) [![Greenkeeper badge](https://badges.greenkeeper.io/bendrucker/value-error.svg)](https://greenkeeper.io/)
 
 > Extract the data from an Error to a plain object
 
